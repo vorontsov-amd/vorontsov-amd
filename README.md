@@ -12,7 +12,7 @@
 
 ### :woman_technologist: About Me :
 My name is Vorontsov Anadey and I am student of Moskow Instityte Physics and Technologies.
-My CV
+My [CV](https://github.com/vorontsov-amd/vorontsov-amd/blob/main/CV.pdf "My CV")
 
 ### :hammer_and_wrench: Languages and Tools :
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
