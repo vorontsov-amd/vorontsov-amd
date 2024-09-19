@@ -11,7 +11,7 @@
 ---
 
 ### :woman_technologist: About Me :
-My name is Vorontsov Anadey and I am student of Moskow Instityte Physics and Technologies.
+My name is Vorontsov Anadey and I am student of Moscow Institute of Physics and Technology.
 My [CV](https://github.com/vorontsov-amd/vorontsov-amd/blob/main/CV.pdf "My CV")
 
 ### :hammer_and_wrench: Languages and Tools :
